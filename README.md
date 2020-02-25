@@ -17,7 +17,7 @@ The Data Defination Language(DDL) is used to create and destroy database and dat
 
 *Syntax:
 
-SQL> CREATE TABLE       <table name>
+SQL> CREATE TABLE  table_name (
   (
     <column1 name>     <data type>
     <column2 name>     <data type>
