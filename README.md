@@ -17,14 +17,14 @@ The Data Defination Language(DDL) is used to create and destroy database and dat
 
 *Syntax:
 
-CREATE TABLE <table name>
-(
-<column1 name>  <data type>
-<column2 name>  <data type>
------
------
-----
-<columnn name>  <data type>
-);
+SQL> CREATE TABLE       <table name>
+  2  (
+  3  <column1 name>     <data type>
+  4  <column2 name>     <data type>
+  5  .....
+  6  .....
+  7  <columnn name>     <data type>
+  8  );
+
 
 
