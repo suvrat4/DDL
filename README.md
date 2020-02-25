@@ -21,10 +21,8 @@ SQL> CREATE TABLE       <table name>
   2  (
   3  <column1 name>     <data type>
   4  <column2 name>     <data type>
-  5  .....
-  6  .....
-  7  <columnn name>     <data type>
-  8  );
+  4  <columnn name>     <data type>
+  5  );
 
 
 
